@@ -14,7 +14,7 @@ status-website:
   cname: status.bwengr.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/bwengr/logo/master/b-w-engineering-logo.jpg
-  name: Upptime
+  name: B+W Engineering and Design | Status
   introTitle: "**B+W Engineering and Design** Status Page."
   introMessage: Status page which uses **real-time** data from our [GitHub repository](https://github.com/bwengr/upptime).
   navbar:
