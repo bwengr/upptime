@@ -4,18 +4,19 @@
     "url": "https://bwengr.com",
     "icon": "https://icons.duckduckgo.com/ip3/bwengr.com.ico",
     "slug": "b-w-engineering-and-design",
-    "status": "up",
-    "uptime": "99.85%",
+    "status": "down",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1625,
     "timeDay": 1687,
     "timeWeek": 1652,
     "timeMonth": 1647,
     "timeYear": 1625,
     "dailyMinutesDown": {
+      "2023-11-07": 0,
       "2023-10-05": 59,
       "2023-09-19": 55
     }
