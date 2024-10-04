@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bwengr.com.ico",
     "slug": "b-w-engineering-and-design",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "99.71%",
     "time": 1498,
-    "timeDay": 1352,
-    "timeWeek": 1318,
-    "timeMonth": 1317,
-    "timeYear": 1490,
+    "timeDay": 1192,
+    "timeWeek": 1285,
+    "timeMonth": 1310,
+    "timeYear": 1489,
     "dailyMinutesDown": {
       "2024-09-17": 96,
       "2024-09-16": 1208,
@@ -22,8 +22,7 @@
       "2024-07-28": 18,
       "2024-04-02": 40,
       "2024-02-20": 16,
-      "2024-02-02": 17,
-      "2023-10-05": 59
+      "2024-02-02": 17
     }
   }
 ]
